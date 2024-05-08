@@ -1,5 +1,6 @@
 .container {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     flex-wrap: wrap;
     width: 50pxpx;
     margin: 10px;
@@ -52,9 +53,14 @@
     margin: 10px 0;
     padding: 40px;;
 }
-@media (min-width: 768px){ 
+@media (max-width:320px){
+.container{
+    grid-template-columns: 1fr;
+}
+}
+
+@media (min-width: 321px) and (max-width:768px){ 
     .container{
-        width: 100%;
-        flex-direction: column;
+        grid-template-columns: 1fr 1fr;
 }
 }
