@@ -121,6 +121,9 @@ ul1, ul2{
         height: 45px;
         width: 300px;
     }
+    .card{
+        width: 100%;
+    }
 /*footer*/
 footer {
     height: 50px;
