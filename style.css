@@ -109,7 +109,7 @@ ul1, ul2{
     .btn{
         color:rgb(59, 54, 159)
     }
-    .btnfondo{
+    .btnfondo, .btn-success{
         background-color: rgb(59, 54,159);
         color: white;
         width: 90px;
@@ -124,6 +124,12 @@ ul1, ul2{
     .card{
         width: 100%;
     }
+    .input[type=text]{
+        background-color: rgb(59, 54,159);
+        color: white;
+        width: 200px;
+        height: 55px;
+    }   
 /*footer*/
 footer {
     height: 50px;
