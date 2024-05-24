@@ -55,8 +55,26 @@ ul1, ul2{
     border-style: ridge;
     background-color: rgb(59, 54, 159);
     color: whitesmoke;
-    list-style: none;
     position: relative;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    margin-top: 100px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.card,.card1,.card2{
+    padding: 40px;
+    height: 350px;
+    border-width: 5px;
+    border-color: rgb(154, 154, 202);
+    border-style: ridge;
+    background-color: whitesmoke(59, 54, 159);
+    color: rgb(59, 54, 159);
+    position: relative;
+    text-align: center;
 }
 /*main*/
 .container0{
@@ -91,13 +109,13 @@ ul1, ul2{
     color: whitesmoke;
     list-style: none;  
 }
-    .white{
+.white{
         background-color: white; 
         color: rgb(83, 80, 151);
         font-size: 20px;        
         width: 500px; height: 70px;
     }
-    .red{
+.red{
         background-color: rgb(83, 80, 151); 
         color: white; 
         font-size: 50px;        
@@ -106,12 +124,12 @@ ul1, ul2{
         border-width: 5px;
         border-color: rgb(83, 80, 151);
         border-style: ridge;
-    }
-    .blue, .green{
+}
+.blue, .green{
         font-size: 50px;
         width: 300px; height: 70px;
-    }
-    .blue, .blue1{
+}
+.blue, .blue1{
         background-color: rgb(154, 154, 202); 
         color:rgb(83, 80, 151);
         border-width: 5px;
@@ -134,7 +152,7 @@ ul1, ul2{
         place-items: center;        
     }       
     .btn{
-        color:rgb(59, 54, 159)
+        color:rgb(201, 37, 37)
     }
     .btnfondo, .btn-success{
         background-color: rgb(59, 54,159);
@@ -147,9 +165,6 @@ ul1, ul2{
     .form-control{
         height: 45px;
         width: 300px;
-    }
-    .card{
-        width: 100%;
     }
     .input[type=text]{
         background-color: rgb(59, 54,159);
