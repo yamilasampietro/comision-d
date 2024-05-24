@@ -154,13 +154,16 @@ ul1, ul2{
     .btn{
         color:rgb(201, 37, 37)
     }
-    .btnfondo, .btn-success{
+    .btnfondo{
         background-color: rgb(59, 54,159);
         color: white;
         width: 90px;
         height: 45px;
         margin-left: 200px;
         place-items: center;
+    }
+    .btn1{
+        color: transparent
     }
     .form-control{
         height: 45px;
