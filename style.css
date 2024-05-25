@@ -1,9 +1,9 @@
 /*body*/
-.body{
+body{
     background-color: e0e0e0;
 }
 /*header*/
-header{
+.header{
         height: 220px;
         border-width: 5px;
         background-image: linear-gradient(rgba(16,16,16,0.6),rgba(16,16,16,0.6)), url(https://plus.unsplash.com/premium_photo-1661957690855-693887d13b87?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
@@ -15,12 +15,12 @@ header{
         font-weight:bolder;
         flex-direction: column;
         position: relative;
+        
 }
 .articulo1{
         color: whitesmoke(59, 54, 159);
         font-size: 50px;  
-        box-shadow: 0 0 5px;
-        border-radius: 5px;
+       
 }
 form{
     color: rgb(59, 54, 159);
@@ -41,7 +41,7 @@ a{
     text-decoration: none;
     color: rgb(59,54,159);
 }
-ul1, ul2{
+.ul1, .ul2{
     list-style:inside;
 }
 .container3{
@@ -83,6 +83,8 @@ ul1, ul2{
 .container0{
     display: flex;
     justify-content: center;
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
 }
 .articulo3{
     color: rgb(59, 54, 159);
@@ -93,11 +95,15 @@ ul1, ul2{
     border-style: ridge;
     background-color: whitesmoke(59, 54, 159);
     list-style: none; 
+    
 
 }
 .container1{
     display: flex;
     justify-content: center;
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
+    font-size: 14px;
 }
 .articulo5{
     text-align: center;
@@ -113,7 +119,12 @@ ul1, ul2{
     list-style: none;  
 }
 .infoimg{
-    background-image: linear-gradient (rgba(16,16,16,0.6),rgba(16,16,16,0.6)),
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.35);
 }
 .white{
         background-color: white; 
