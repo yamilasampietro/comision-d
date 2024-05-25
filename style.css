@@ -1,11 +1,12 @@
 /*body*/
+.body{
+    background-color: e0e0e0;
+}
 /*header*/
 header{
         height: 220px;
         border-width: 5px;
-        border-color: rgb(59, 54, 159);
-        border-style: ridge;
-        background-image: url(https://plus.unsplash.com/premium_photo-1661957690855-693887d13b87?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+        background-image: linear-gradient(rgba(16,16,16,0.6),rgba(16,16,16,0.6)), url(https://plus.unsplash.com/premium_photo-1661957690855-693887d13b87?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
         background-position: center;
         background-repeat: none;
         display:flex;
@@ -16,9 +17,10 @@ header{
         position: relative;
 }
 .articulo1{
-        color: rgb(59, 54, 159);
+        color: whitesmoke(59, 54, 159);
         font-size: 50px;  
-        text-shadow: 0 0 5px;   
+        box-shadow: 0 0 5px;
+        border-radius: 5px;
 }
 form{
     color: rgb(59, 54, 159);
@@ -33,6 +35,7 @@ ul{
     text-transform:uppercase;
     font-weight: bolder;
     text-shadow: 0 0 5px;    
+
 }
 a{
     text-decoration: none;
@@ -108,6 +111,9 @@ ul1, ul2{
     background-color: rgb(59, 54, 159);
     color: whitesmoke;
     list-style: none;  
+}
+.infoimg{
+    background-image: linear-gradient (rgba(16,16,16,0.6),rgba(16,16,16,0.6)),
 }
 .white{
         background-color: white; 
