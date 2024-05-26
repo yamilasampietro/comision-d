@@ -81,7 +81,6 @@ a{
     justify-content: center;
     box-shadow: 5px;
     background-color: E0E0E0;
-    position: relative;
 }
 .container0{
     display: flex;
@@ -120,6 +119,7 @@ a{
         color: rgb(83, 80, 151);
         font-size: 20px;        
         width: 500px; height: 70px;
+        position: relative;
     }
 .red{
         background-color: rgb(83, 80, 151); 
@@ -130,17 +130,19 @@ a{
         border-width: 5px;
         border-color: rgb(83, 80, 151);
         border-style: ridge;
+        position: relative;
 }
 .blue, .green{
         font-size: 50px;
         width: 300px; height: 70px;
 }
 .blue, .blue1{
-    background-color: rgb(154, 154, 202); 
+            background-color: rgb(154, 154, 202); 
             color:rgb(83, 80, 151);
             border-width: 5px;
             border-color: rgb(83, 80, 151);
             border-style: ridge;
+            position: relative;
 }
 .green,.green1{
             background-color: rgb(83, 80, 151); 
@@ -148,6 +150,7 @@ a{
             border-width: 5px;
             border-color: rgb(83, 80, 151);
             border-style: ridge;
+            position: relative;
 }
 .blue1, .green1 {
             position: absolute;
