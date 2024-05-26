@@ -76,12 +76,6 @@ a{
     text-align: center;
 }
 /*main*/
-.container6{
-    display: flex;
-    justify-content: center;
-    box-shadow: 5px;
-    background-color: E0E0E0;
-}
 .container0{
     display: flex;
     justify-content: center;
@@ -185,12 +179,22 @@ a{
     height: 55px;
 }   
 .container4{
-    height: 100px;
+    height: 200px;
     display: flex;
     justify-content: right;
     align-items:center;
     flex-direction:row;
     position: relative;
+}
+.container6{
+    height: 200px;
+    display: flex;
+    justify-content: right;
+    align-items:center;
+    flex-direction:row;
+    position: relative;
+    box-shadow: 5px;
+    background-color: E0E0E0;
 }
 .container5{
     display: flex;
