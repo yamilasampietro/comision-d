@@ -170,14 +170,15 @@ form{
     background-color: E0E0E0;
 }
 .container6{
-    height: 200px;
+    height: 2500px;
     display: flex;
-    justify-content: right;
+    justify-content: left;
     align-items:center;
-    flex-direction:row;
+    flex-direction: column;
     position: relative;
-    box-shadow: 5px;
-    background-color: E0E0E0;
+    box-shadow: 5px;  
+    background-position: center;
+    background-repeat: none;  
 }
 .container5{
     display: flex;
