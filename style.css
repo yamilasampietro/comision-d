@@ -60,7 +60,7 @@ a{
 }
 .card,.card1,.card2{
     padding: 50px;
-    height: 600px;
+    height: 850px;
     border-width: 5px;
     border-color: rgb(154, 154, 202);
     border-style: ridge;
@@ -68,7 +68,7 @@ a{
     color: rgb(59, 54, 159);
     position: relative;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
 }
 /*main*/
 .container0{
@@ -168,9 +168,9 @@ form{
     background-color: E0E0E0;
 }
 .container6{
-    height: 1300px;
+    height: 1500px;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items:center;
     flex-direction: column;
     position: relative;
@@ -195,13 +195,8 @@ form{
         display: flex;
         justify-content: center;
         color: rgb(59, 54, 159);
-        padding: 40px;
-        height: 200px;
-        border-width: 5px;
-        border-color: rgb(59, 54, 159);
-        border-style: ridge;
-        background-color: whitesmoke(59, 54, 159);
-        list-style: none; 
+        height: 400px;
+        font-size: 30px;
 }
 /*footer*/
 footer {
