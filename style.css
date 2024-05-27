@@ -60,7 +60,7 @@ a{
 }
 .card,.card1,.card2{
     padding: 50px;
-    height: 850px;
+    height: 780px;
     border-width: 5px;
     border-color: rgb(154, 154, 202);
     border-style: ridge;
@@ -168,7 +168,7 @@ form{
     background-color: E0E0E0;
 }
 .container6{
-    height: 1500px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items:center;
@@ -181,8 +181,8 @@ form{
 .articulo5{
     text-align: center;
 }
-.container5{
-    height: 70px;
+.container5, .container7{
+    height: 700px;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -190,6 +190,7 @@ form{
     background-repeat: none;
     flex-direction: column;
     position: relative;
+    font-size: 30px;
 }
 .container4{
         display: flex;
