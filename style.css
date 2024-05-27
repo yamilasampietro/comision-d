@@ -17,13 +17,7 @@ header{
         color: whitesmoke;
         font-size: 50px;        
 }
-form{
-    color: rgb(59, 54, 159);
-    font-size: 20px; 
-    padding: 5%; 
-    display: flex;
-    justify-content: center; 
-}
+
 ul{
     display: flex;
     list-style: none;
@@ -185,6 +179,9 @@ a{
     align-items:center;
     flex-direction:row;
     position: relative;
+    color: rgb(59, 54, 159);
+    font-size: 20px; 
+    padding: 5%;  
 }
 .container6{
     height: 200px;
