@@ -156,7 +156,7 @@ a{
     height: 55px;
 }   
 form{
-    height: 400px;
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items:center;
@@ -196,7 +196,7 @@ form{
         display: flex;
         justify-content: center;
         color: rgb(59, 54, 159);
-        height: 180px;
+        height: 100px;
         font-size: 25px;
 }
 /*footer*/
