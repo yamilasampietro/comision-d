@@ -59,8 +59,8 @@ a{
     margin-right: 180px;
 }
 .card,.card1,.card2{
-    padding: 40px;
-    height: 350px;
+    padding: 50px;
+    height: 700px;
     border-width: 5px;
     border-color: rgb(154, 154, 202);
     border-style: ridge;
@@ -158,14 +158,14 @@ a{
     height: 55px;
 }   
 form{
-    height: 400px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items:center;
     flex-direction:row;
     position: relative;
     color: rgb(59, 54, 159);
-    font-size: 20px; 
+    font-size: 40px; 
     padding: 5%;  
     background-color: E0E0E0;
 }
