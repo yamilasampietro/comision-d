@@ -158,9 +158,8 @@ a{
     height: 55px;
 }   
 .containerform{
-    height: 200vp;
-    display: flex;
-    justify-content: center;
+    height: 300vp;
+   
     align-items:center;
     position: relative;
     color: rgb(59, 54, 159);
@@ -169,6 +168,8 @@ a{
     background-color: #e0e0e0;
     margin-left: 300px;
     margin-top: 500;
+    display: grid;
+    place-items: center;
 }
 .container6{
     height: 300px;
@@ -182,6 +183,7 @@ a{
     background-repeat: none;  
     color: rgb(59, 54, 159);
     font-size: 25px;
+
 }
 .articulo5{
     text-align: center;
