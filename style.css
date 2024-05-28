@@ -156,13 +156,15 @@ a{
     height: 55px;
 }   
 .form{
-    height: 300px;
+    height: 400px;
     display: flex;
     justify-content: center;
     align-items:center;
     position: relative;
     color: rgb(59, 54, 159);
     font-size: 25px; 
+    flex-direction: column;
+    background-color: aqua;
 }
 .container6{
     height: 300px;
