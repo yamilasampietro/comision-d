@@ -163,7 +163,7 @@ a{
     position: relative;
 }
 .form-floating{
-    flex-direction:column;
+    
     box-shadow: 5px;  
     background-position: center;
     background-repeat: none;  
