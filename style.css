@@ -159,15 +159,15 @@ a{
 }   
 .containerform{
     height: 300vp;
-   
     align-items:center;
     position: relative;
     color: rgb(59, 54, 159);
     font-size: 25px; 
     flex-direction: column;
     background-color: #e0e0e0;
-    margin-left: 300px;
-    margin-top: 500;
+    margin-left: 400px;
+    margin-left: 400px;
+    margin-top: 500px;
     display: grid;
     place-items: center;
 }
