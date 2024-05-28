@@ -155,15 +155,12 @@ a{
     width: 200px;
     height: 55px;
 }   
-.form{
+.form-floating{
     height: 300px;
     display: flex;
     justify-content: center;
     align-items:center;
     position: relative;
-}
-.form-floating{
-     
     color: rgb(59, 54, 159);
     font-size: 25px; 
 }
