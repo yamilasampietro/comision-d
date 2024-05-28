@@ -167,6 +167,8 @@ a{
     font-size: 25px; 
     flex-direction: column;
     background-color: #e0e0e0;
+    margin-left: 300px;
+    margin-top: 500;
 }
 .container6{
     height: 300px;
