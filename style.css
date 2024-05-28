@@ -157,7 +157,7 @@ form{
     justify-content: center;
     align-items:center;
     flex-direction:column;
-    position: relative;
+    position:relative;
     color: rgb(59, 54, 159);
     font-size: 25px; 
     padding: 5%;  
