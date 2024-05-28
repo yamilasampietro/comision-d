@@ -210,4 +210,5 @@ footer {
     display: grid;
     place-items: center;
     margin-top: auto;
+    position: absolute;
 }
