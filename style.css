@@ -110,7 +110,9 @@ a{
         border-width: 5px;
         border-color: rgb(83, 80, 151);
         border-style: ridge; 
-        align-items: center;       
+        align-items: center;  
+        display: flex;
+        justify-content: center;     
 }
 .blue{
         font-size: 50px;
@@ -153,7 +155,7 @@ a{
     width: 200px;
     height: 55px;
 }   
-.form-floating{
+.container7{
     height: 900px;
     display: flex;
     justify-content: center;
