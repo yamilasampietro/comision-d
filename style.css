@@ -163,11 +163,9 @@ a{
     position: relative;
     color: rgb(59, 54, 159);
     font-size: 25px; 
-    flex-direction: column;
+    
     background-color: #e0e0e0;
-    margin-left: 400px;
-    margin-left: 400px;
-    margin-top: 700px;
+    
     display: grid;
     place-items: center;
 }
