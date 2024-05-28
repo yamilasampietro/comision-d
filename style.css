@@ -123,6 +123,8 @@ a{
             border-style: ridge; 
             align-items: center;      
             width: 500px; height: 70px;   
+            display: flex;
+            justify-content: center;
 }
 .blue1{
             font-size: 30px;                  
@@ -151,7 +153,7 @@ a{
     width: 200px;
     height: 55px;
 }   
-form{
+.form-floating{
     height: 900px;
     display: flex;
     justify-content: center;
