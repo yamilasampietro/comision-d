@@ -86,8 +86,9 @@ ul{
 .form-floating{
     color: rgb(59, 54, 159);
     font-size: 25px; 
-    padding: 10%;
+    padding: 5%;
     background-color: #e0e0e0;   
+    border-radius: 10px;
 }
 .form-control{
     height: 45px;
