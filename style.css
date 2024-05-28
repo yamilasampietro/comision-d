@@ -156,17 +156,14 @@ a{
     height: 55px;
 }   
 .form{
-    height: 100vp;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items:center;
     position: relative;
 }
 .form-floating{
-    
-    box-shadow: 5px;  
-    background-position: center;
-    background-repeat: none;  
+     
     color: rgb(59, 54, 159);
     font-size: 25px; 
 }
