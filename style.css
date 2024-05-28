@@ -156,12 +156,14 @@ a{
     height: 55px;
 }   
 .form{
-    height: 300px;
+    height: 100vp;
     display: flex;
     justify-content: center;
     align-items:center;
+    position: relative;
+}
+.form-floating{
     flex-direction:column;
-    position:relative;
     box-shadow: 5px;  
     background-position: center;
     background-repeat: none;  
