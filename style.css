@@ -86,6 +86,7 @@ a{
     border-style: ridge;
     background-color: whitesmoke(59, 54, 159);
     list-style: none; 
+    border-radius: 20px;
 }
 .container1{
     display: flex;
