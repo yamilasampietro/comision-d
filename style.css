@@ -44,7 +44,7 @@ a{
 }
 .galeria1, .galeria2, .galeria3{
     padding: 40px;
-    height: 2000px;
+    height: 1200px;
     border-width: 5px;
     border-color: whitesmoke;
     border-style: ridge;
@@ -157,8 +157,8 @@ a{
     width: 200px;
     height: 55px;
 }   
-.containerform{
-    height: 300vp;
+.form-floating{
+    height: 100vp;
     align-items:center;
     position: relative;
     color: rgb(59, 54, 159);
@@ -167,7 +167,7 @@ a{
     background-color: #e0e0e0;
     margin-left: 400px;
     margin-left: 400px;
-    margin-top: 500px;
+    margin-top: 700px;
     display: grid;
     place-items: center;
 }
