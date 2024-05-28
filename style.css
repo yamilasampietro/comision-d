@@ -82,10 +82,9 @@ ul{
     position: relative;
     color: rgb(59, 54, 159);
     font-size: 25px; 
-    padding: 20%;
+    padding: 10%;
     background-color: #e0e0e0;
-    
-    display: grid;
+    display: flex;
     place-items: center;
 }
 .form-control{
