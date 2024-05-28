@@ -76,16 +76,21 @@ ul{
     color: transparent
 }
 /*contacto*/
-.form-floating{
+.containerform{
+    display: flex;
+    justify-content: center;
     height: 200vh;
     align-items:center;
     position: relative;
+}
+.form-floating{
+    
+    
     color: rgb(59, 54, 159);
     font-size: 25px; 
     padding: 10%;
     background-color: #e0e0e0;
-    display: flex;
-    justify-content: center;
+    
 }
 .form-control{
     height: 45px;
