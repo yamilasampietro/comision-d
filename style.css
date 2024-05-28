@@ -105,9 +105,9 @@ ul{
     margin-left: 200px;
     place-items: center;
 }
-/*clase4*/
+/*clase4*/ 
 .container6{
-    height: 100vp;
+    height: 200vp;
     display: flex;
     justify-content: center;
     align-items:center;
