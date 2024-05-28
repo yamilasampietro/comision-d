@@ -27,6 +27,17 @@ ul{
     font-weight: bolder;
     text-shadow: 0 0 5px;    
 }
+.ul3{
+    display: flex;
+    justify-items: center;
+    list-style: none;
+    gap: 20px;
+    font-size: 20px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    text-shadow: 0 0 5px;  
+
+}
 a{
     text-decoration: none;
     color: rgb(59,54,159);
