@@ -76,6 +76,7 @@ a{
 .container0{
     display: flex;
     justify-content: center;
+    border-radius: 20px;
 }
 .articulo3{
     color: rgb(59, 54, 159);
@@ -86,7 +87,7 @@ a{
     border-style: ridge;
     background-color: whitesmoke(59, 54, 159);
     list-style: none; 
-    border-radius: 20px;
+    
 }
 .container1{
     display: flex;
