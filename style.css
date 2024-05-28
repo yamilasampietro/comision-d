@@ -156,16 +156,17 @@ a{
     height: 55px;
 }   
 .container7{
-    height: 900px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items:center;
     flex-direction:column;
     position:relative;
+    box-shadow: 5px;  
+    background-position: center;
+    background-repeat: none;  
     color: rgb(59, 54, 159);
     font-size: 25px; 
-    padding: 5%;  
-    background-color: E0E0E0;
 }
 .container6{
     height: 300px;
