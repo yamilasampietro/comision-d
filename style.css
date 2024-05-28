@@ -99,13 +99,13 @@ ul{
 }
 .input[type=text]{
     background-color: rgb(59, 54,159);
-    color: white;
+    color: whitesmoke;
     width: 200px;
     height: 55px;
 }   
 .btnfondo{
     background-color: rgb(59, 54,159);
-    color: white;
+    color: whitesmoke;
     width: 90px;
     height: 45px;
     margin-left: 200px;
@@ -127,7 +127,7 @@ ul{
 }
 .red{
     background-color: rgb(83, 80, 151); 
-    color: white; 
+    color: whitesmoke; 
     font-size: 50px;        
     width: 500px; height: 70px;
     border-width: 5px;
