@@ -107,7 +107,7 @@ ul{
 }
 /*clase4*/
 .container6{
-    height: 800px;
+    height: 100vp;
     display: flex;
     justify-content: center;
     align-items:center;
