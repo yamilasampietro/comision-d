@@ -79,7 +79,7 @@ ul{
 .containerform{
     display: flex;
     justify-content: center;
-    
+    border-radius: 10px;
     align-items:center;
     position: relative;
 }
@@ -88,7 +88,6 @@ ul{
     font-size: 25px; 
     padding: 5%;
     background-color: #e0e0e0;   
-    border-radius: 10px;
 }
 .form-control{
     height: 45px;
