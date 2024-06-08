@@ -105,25 +105,29 @@ ul{
     padding: 5%;
     background-color: #e0e0e0;
     border-radius: 10px;
-    border-color: rgb(59, 54,159);   
+    border-color: rgb(59, 54,159);  
+    font-family: Arial, Helvetica, sans-serif; 
 }
 .form-control{
     height: 45px;
     width: 300px;        
+    font-family: Arial, Helvetica, sans-serif;
 }
 .input[type=text]{
     background-color: rgb(59, 54,159);
     color: whitesmoke;
     width: 200px;
     height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
 }   
 .btnfondo{
     background-color: rgb(59, 54,159);
     color: whitesmoke;
     width: 90px;
-    height: 45px;
+    height: 55px;
     margin-left: 200px;
     place-items: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /*clase4*/ 
 .container6{
