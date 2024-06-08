@@ -1,7 +1,6 @@
 body{
     background-image:linear-gradient(155deg,#e0e9ee,#c1e0f0,#99d5f3, #71c3ec, #70c0e8);
     animation: fanimado 10s infinite;
-    color: whitesmoke;
 }
 @keyframes fanimado{
     0%{
@@ -219,9 +218,7 @@ ul{
 /*footer*/
 footer {
     height: 50px;
-    border-width: 5px;
-    border-color: black;
-    border-style: ridge;
+    color: black;
     display: grid;
     place-items: center;
     margin-top: auto;
