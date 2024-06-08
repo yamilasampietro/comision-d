@@ -48,7 +48,7 @@ ul{
     border-radius: 20px;
 }
 .articulo3{
-    color: rgb(59, 54, 159);
+    color: rgb(55, 54, 58);
     padding: 40px;
     height: 200px;
     list-style: none; 
@@ -65,7 +65,7 @@ ul{
     border-width: 5px;
     border-color: whitesmoke;
     border-style: ridge;
-    background-color: rgb(59, 54, 159);
+    background-color: rgb(55, 54, 58);
     color: whitesmoke;
     list-style: none;  
 }
