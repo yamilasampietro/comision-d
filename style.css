@@ -51,10 +51,6 @@ ul{
     color: rgb(59, 54, 159);
     padding: 40px;
     height: 200px;
-    border-width: 5px;
-    border-color: rgb(59, 54, 159);
-    border-style: ridge;
-    background-color: whitesmoke(59, 54, 159);
     list-style: none; 
     
 }
