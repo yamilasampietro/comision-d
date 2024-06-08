@@ -1,16 +1,16 @@
 body{
-    background-image:linear-gradient(255deg,#83888b,#4c4f50);
-    animation: fanimado 10s ease infinite;
+    background-image:linear-gradient(135deg,#83888b,#a7b1b5);
+    animation: fanimado 10s linear infinite;
 }
-@keyframes fanimado{
+@keyframes fanimado {
     0%{
-        background-position: 0% 50%;
+        transform: translate(0,0);
     }
     50%{
-        background-position: 50% 100%;
-    }
+        transform: translate(-50%, -50%);
+       }
     100%{
-        background-position: 0% 50%;
+        transform: translate(0,0);
     }
 }
 /*index*/
@@ -95,12 +95,12 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
 }
 .form-floating{
-    color: rgb(59, 54, 159);
+    color: whitesmoke;
     font-size: 25px; 
     padding: 5%;
     background-image: linear-gradient(rgba(16,16,16,0.6),rgba(16,16,16,0.6)), url(https://plus.unsplash.com/premium_photo-1661957690855-693887d13b87?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
     border-radius: 10px;
-    border-color: rgb(59, 54,159);  
+    border-color: whitesmoke;  
     font-family: Arial, Helvetica, sans-serif; 
 }
 .form-control{
@@ -206,7 +206,7 @@ ul{
     font-size: 20px;
 }
 .btn{
-    color: green;
+    color:greenyellow;
     font-size: 25px;
 }
 /*footer*/
