@@ -98,7 +98,7 @@ ul{
     color: rgb(59, 54, 159);
     font-size: 25px; 
     padding: 5%;
-    background-color: #e0e0e0;
+    background-image: linear-gradient(rgba(16,16,16,0.6),rgba(16,16,16,0.6)), url(https://plus.unsplash.com/premium_photo-1661957690855-693887d13b87?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
     border-radius: 10px;
     border-color: rgb(59, 54,159);  
     font-family: Arial, Helvetica, sans-serif; 
@@ -173,7 +173,6 @@ ul{
     height: 100vh;
     justify-content: center;
     margin-top: 200px;
-    color: rgb(59, 54, 159);
     font-size: 25px;
 }
 .galeria1, .galeria2, .galeria3{
@@ -182,7 +181,6 @@ ul{
     border-width: 5px;
     border-color: whitesmoke;
     border-style: ridge;
-    background-color: rgb(59, 54, 159);
     color: whitesmoke;
     position: relative;
 }
@@ -202,13 +200,13 @@ ul{
     border-color: rgb(154, 154, 202);
     border-style: ridge;
     background-color: whitesmoke(59, 54, 159);
-    color: rgb(59, 54, 159);
+    color: rgb(55, 54, 58);
     position: relative;
     text-align: center;
     font-size: 20px;
 }
 .btn{
-    color: rgb(59, 54, 159);
+    color: green;
     font-size: 25px;
 }
 /*footer*/
