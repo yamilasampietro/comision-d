@@ -109,14 +109,13 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
 }
 .input[type=text]{
-    background-color: rgb(59, 54,159);
     color: whitesmoke;
     width: 200px;
     height: 55px;
     font-family: Arial, Helvetica, sans-serif;
 }   
 .btnfondo{
-    background-color: rgb(59, 54,159);
+    background-color: rgb(55,54,58);
     color: whitesmoke;
     width: 90px;
     height: 55px;
@@ -135,7 +134,6 @@ ul{
     box-shadow: 5px;  
     background-position: center;
     background-repeat: none;  
-    color: rgb(59, 54, 159);
     font-size: 25px;
 }
 .red{
