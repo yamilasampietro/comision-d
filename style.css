@@ -138,12 +138,12 @@ ul{
     font-size: 25px;
 }
 .red{
-    background-color: rgb(83, 80, 151); 
+    background-color: rgb(55,54,58); 
     color: whitesmoke; 
     font-size: 50px;        
     width: 500px; height: 70px;
     border-width: 5px;
-    border-color: rgb(83, 80, 151);
+    border-color: whitesmoke;
     border-style: ridge; 
     align-items: center;  
     display: flex;
@@ -153,10 +153,10 @@ ul{
     font-size: 50px;
 }
 .blue, .blue1{
-    background-color: rgb(154, 154, 202); 
-    color:rgb(83, 80, 151);
+    background-color: rgb(149, 149, 156); 
+    color: rgb(55,54,58);
     border-width: 5px;
-    border-color: rgb(83, 80, 151);
+    border-color:whitesmoke;
     border-style: ridge; 
     align-items: center;      
     width: 500px; height: 70px;   
